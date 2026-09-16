@@ -1,4 +1,4 @@
-# Microsoft eShopOnWeb ASP.NET Core Reference Application -- SRE
+# Microsoft eShopOnWeb ASP.NET Core Reference Application -- SRE test
 
 This Microsoft reference application is now being maintained by [NimblePros](https://nimblepros.com/).
 
